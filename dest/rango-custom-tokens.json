@@ -1,0 +1,198 @@
+{
+  "name": "Rango Custom Token List",
+  "logoURI": "",
+  "keywords": ["rango", "list"],
+  "timestamp": "2024-07-29T10:39:51.835Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  },
+  "tags": {},
+  "tokens": [
+    {
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "address": "0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/xcn/icon.png"
+    },
+    {
+      "name": "Rocket Vault RocketX",
+      "symbol": "RVF",
+      "address": "0xdc8aF07A7861bedD104B8093Ae3e9376fc8596D2",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/rocketx/icon.png"
+    },
+    {
+      "name": "Luna Inu",
+      "symbol": "LINU",
+      "address": "0x78132543d8e20d2417d8a07d9ae199d458a0d581",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/luna_inu/icon.png"
+    },
+    {
+      "name": "Flash 3.0",
+      "symbol": "FLASH",
+      "address": "0xBb19DA2482308ec02a242ACED4Fe0f09D06b12A7",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/flash/icon.png"
+    },
+    {
+      "name": "BIFI",
+      "address": "0x4e720dd3ac5cfe1e1fbde4935f386bb1c66f4642",
+      "symbol": "BIFI",
+      "decimals": 18,
+      "chainId": 10,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/bifi/icon.png"
+    },
+    {
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "address": "0x382586651f043cBdEc7bb586e367D77B26D7d149",
+      "chainId": 37,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/wgc/icon.png"
+    },
+    {
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "address": "0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/xcn/icon.png"
+    },
+    {
+      "name": "USDFI",
+      "symbol": "USDFI",
+      "address": "0xC9f5955f6dA20e44A068f3d58FB2404f56f9a6f2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/usdfi/icon.png"
+    },
+    {
+      "name": "STABLE",
+      "symbol": "STABLE",
+      "address": "0x8bF75bc68FD337dfd8186d731Df8b3C2CB14B9E6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/stable/icon.png"
+    },
+    {
+      "name": "Rocket Vault RocketX",
+      "symbol": "RVF",
+      "address": "0x872a34Ebb2d54Af86827810EeBC7b9dC6B2144aA",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/rocketx/icon.png"
+    },
+    {
+      "name": "Nusa Finance",
+      "symbol": "NUSA",
+      "address": "0xe11F1D5EEE6BE945BeE3fa20dBF46FeBBC9F4A19",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/nusa/icon.png"
+    },
+    {
+      "name": "IDRX",
+      "symbol": "IDRX",
+      "address": "0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/idrx/icon.png"
+    },
+    {
+      "name": "Godzilla Project Token",
+      "symbol": "GODZ",
+      "address": "0xae7cf30e14e132e43689ebe4fab49706c59a0bf7",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/godzilla/icon.png"
+    },
+    {
+      "name": "Arken Finance",
+      "symbol": "ARKEN",
+      "address": "0x1d4268a58ee7ec2cc2af5d70a2fd2b3a896527a2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/arken/icon.png"
+    },
+    {
+      "name": "Arken Finance",
+      "symbol": "ARKEN",
+      "address": "0x9d8E53A1DBF92f4ECd0Fd7EE4DaDfAa1EFC813C0",
+      "chainId": 88,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/arken/icon.png"
+    },
+    {
+      "name": "WEWECOIN",
+      "symbol": "WEWE",
+      "address": "G3Mu6gYiqeEH5vz3qChGB8CV4sW4oUxAqRM67nUVXH1H",
+      "chainId": 101,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/wewe/icon.png"
+    },
+    {
+      "name": "DMAGA",
+      "symbol": "DARK MAGA",
+      "address": "7D7BRcBYepfi77vxySapmeqRNN1wsBBxnFPJGbH5pump",
+      "chainId": 101,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/dmaga/icon.png"
+    },
+    {
+      "name": "Coffee",
+      "symbol": "COFFEE",
+      "address": "85Yf3z6zwgLGQLfxww7KoHGw4sHpx4iki2P1Ci7k7gqZ",
+      "chainId": 101,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/coffee/icon.png"
+    },
+    {
+      "name": "Rocket Vault RocketX",
+      "symbol": "RVF",
+      "address": "0x2CE13E4199443FDfFF531ABb30c9B6594446bbC7",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/rocketx/icon.png"
+    },
+    {
+      "name": "KAXAA",
+      "symbol": "KAX",
+      "address": "0x42aF7aAc6AE6425Ffa96370cFD0B12522Aa4b458",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/kaxaa/icon.png"
+    },
+    {
+      "name": "IDRX",
+      "symbol": "IDRX",
+      "address": "0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC",
+      "chainId": 137,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/idrx/icon.png"
+    },
+    {
+      "name": "zkSwap Finance",
+      "address": "0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A",
+      "symbol": "ZF",
+      "decimals": 18,
+      "chainId": 324,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/zf/icon.png"
+    },
+    {
+      "name": "Arken Finance",
+      "symbol": "ARKEN",
+      "address": "0xAf5db6E1CC585ca312E8c8F7c499033590cf5C98",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/arken/icon.png"
+    }
+  ]
+}

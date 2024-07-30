@@ -1,0 +1,9 @@
+[
+  {
+    "name": "USDFI",
+    "symbol": "USDFI",
+    "address": "0xC9f5955f6dA20e44A068f3d58FB2404f56f9a6f2",
+    "chainId": 56,
+    "decimals": 18
+  }
+]
